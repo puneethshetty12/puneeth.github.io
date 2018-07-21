@@ -9,10 +9,15 @@ p{
     font-size: 60px;
     
 }
-
+.content{
+    margin-top: 150px;
+}
 .navbarCustom{
     margin-left: 50%;
 }
-.coverImage{
-    max-width: 100%;
+.texts{
+    font-weight: normal;
+    font-size: 12pt;
+    font-family: monospace;
+    color: gray;
 }
